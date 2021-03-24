@@ -100,6 +100,10 @@ a:active {
     justify-content: space-between;
 }
 
+.container-featured-recepies main{
+   width: 100%;
+}
+
 header {
     background: #F9E27D;
     padding: 2em 0;
@@ -249,6 +253,9 @@ nav a:focus {
     flex-direction: column;
 
     border-bottom: #8f8f8f 2px solid;
+}
+
+.recent-post-image-link {
     margin-bottom: 1em;
 }
 
